@@ -105,7 +105,7 @@ I'm a developer who builds **privacy-first software** — tools where your data 
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Cipher
+### 🔐 [Cipher](https://github.com/Murli-B/Password-Checker)
 **Privacy-first password checker & generator**
 
 Live analysis with [zxcvbn](https://github.com/dropbox/zxcvbn) running off the main thread in a **Web Worker**, so typing never stutters.
@@ -120,7 +120,7 @@ Generation is cryptographically secure: `crypto.getRandomValues` with unbiased r
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ ssh-sentinel
+### 🛡️ [ssh-sentinel](https://github.com/Murli-B/ssh-sentinel)
 **Offline SSH brute-force detector (CLI)**
 
 Zero-dependency Python that reads local `auth.log` files, groups failures by source IP in a sliding time window, and escalates to **HIGH** when a successful login follows a burst of failures.
@@ -136,7 +136,7 @@ Read-only by design — it never blocks traffic, never uploads a log, never phon
 <tr>
 <td width="50%" valign="top">
 
-### 🧮 Tally
+### 🧮 [Tally](https://github.com/Murli-B/React-calculator)
 **Keyboard-friendly React calculator**
 
 Instant answer previews, full keyboard control, and a **safe arithmetic parser** — a hand-written recursive-descent parser instead of `eval`. No `Function()`, no dynamic code execution, no extra dependencies.
@@ -149,7 +149,7 @@ Responsive from phone to desktop, with visible focus states and an announced dis
 </td>
 <td width="50%" valign="top">
 
-### 🍎 Pomegranate
+### 🍎 [Pomegranate](https://github.com/Murli-B/Pomegranate-website)
 **Scroll-driven Canvas storytelling site**
 
 212 pre-rendered frames scrubbed in real time on an HTML5 Canvas — Apple-product-page style — built with nothing but React and the Canvas 2D API.
